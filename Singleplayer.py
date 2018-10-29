@@ -1,6 +1,6 @@
 import pygame, random, sys
-import tkinter as tk
-from tkinter import *
+import Tkinter as tk
+from Tkinter import *
 from pygame.locals import *
 
 

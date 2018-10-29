@@ -86,7 +86,7 @@ food_position = (random.randint(0,760),random.randint(0,570))
 
 # The how to intro screen
 howto_1 = "How to Play:"
-howto_2 = "Arrow keys (← → ↑ ↓) control the first snake."
+howto_2 = "Arrow keys control the first snake."
 howto_3 = "WASD controls the second snake."
 howto_4 = "Collect 10 food to win!"
 howto_5 = "Going through the other snake will result in shrinkage of your snake, as well as -1 score."

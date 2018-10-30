@@ -2,7 +2,7 @@
 
 Simplistic Snake game, with a 2 player mode.
 
-Final project of Grade 11 Computer Science, made with pygame and TKinter.
+Final project of Grade 11 Computer Science, made with pygame and TKinter. Used Python 2.7.
 
 ![Main Menu](https://i.imgur.com/tZwVFBh.png)
 
